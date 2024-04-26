@@ -9,5 +9,8 @@ Using React to incorporate user input of a choice of color to affect the style o
 * CSS
 * JavaScript
 
+## Completed Date:
+* 14 Apr 2024
+
 
 
